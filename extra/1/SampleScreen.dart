@@ -33,7 +33,7 @@ class SampleScreen extends StatelessWidget{
               ),
 
               child: Center(
-                child: Icon(Icons.build, color: Colors.orange,
+                child: Icon(Icons.beach_access, color: Colors.red,
                 size: 50,
                 ),
               ),
@@ -48,4 +48,5 @@ class SampleScreen extends StatelessWidget{
       
     );
   }
+
 }
